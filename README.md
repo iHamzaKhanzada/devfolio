@@ -1,5 +1,5 @@
 # devfolio
-A simple, responsive, single-page portfolio for developers built with Bulma, Sass Font Awesome and Flickity.
+A simple, responsive, single-page portfolio and resume for developers built with Bulma, Sass, Font Awesome and Flickity.
 
 View the [demo here](https://mmacneil.github.io/devfolio/).
 
@@ -11,7 +11,7 @@ View the [demo here](https://mmacneil.github.io/devfolio/).
 
 ## Setup
 
-1. Clone or fork this repository.
+1. Clone, fork or create a template from this repository.
 2. Install required dependencies from your terminal by running `npm install` from the project folder root containing `package.json`.
  <pre>
  <code>src\>npm install</code></pre>
